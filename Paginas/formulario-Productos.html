@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Productos</title>
+    <!-- Enlazar los archivos CSS -->
+    <link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="formulario-productos.css">
+</head>
+<body>
+
+    <!-- Menú lateral -->
+    <div class="sidebar">
+        <a href="#" class="logo">
+            Instituto Tecnológico Metropolitano de Medellín.
+        </a>
+        <a href="#">Inicio</a>
+        <a href="formulario-Productos.html">Catálogo</a>
+        <a href="formulario-cliente.html">Clientes</a>
+        <a href="formulario-proveedores.html">Proveedores</a>
+    </div>
+
+    <!-- Contenido principal -->
+    <div class="container">
+        <h1>Gestión de Productos</h1>
+
+        <div class="form-container">
+            <h2>Agregar Producto</h2>
+            <form id="form-producto">
+                <div class="form-group">
+                    <label for="txtNombre">Nombre:</label>
+                    <input type="text" id="txtNombre" placeholder="Nombre del producto" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="txtCodigo">Código:</label>
+                    <input type="text" id="txtCodigo" placeholder="Código del producto" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="txtValorUnitario">Valor Unitario:</label>
+                    <input type="text" id="txtValorUnitario" placeholder="Valor unitario" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="cboProveedor">Proveedor:</label>
+                    <select id="cboProveedor" required>
+                        <option value="0" disabled selected>Seleccione el proveedor</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="cboTipoProducto">Tipo Producto:</label>
+                    <select id="cboTipoProducto" required>
+                        <option value="0" disabled selected>Seleccione el tipo de producto</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="txtTiempoGarantia">Tiempo de Garantía:</label>
+                    <input type="text" id="txtTiempoGarantia" placeholder="Tiempo de garantía (meses)" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="txtDescuento">Descuento:</label>
+                    <input type="text" id="txtDescuento" placeholder="Descuento (%)" required>
+                </div>
+
+                <div class="button-group">
+                    <button type="button" class="add" onclick="Insertar()">Agregar</button>
+                    <button type="button" class="edit" onclick="Actualizar()">Editar</button>
+                    <button type="button" class="delete" onclick="Eliminar()">Eliminar</button>
+                    <button type="button" class="consult" onclick="Consultar()">Consultar</button>
+                </div>
+            </form>
+        </div>
+        <div class="form-group">
+            <div id="dvMensaje" class=""></div>
+        </div>
+
+        <!-- Tabla de productos -->
+        <div class="table-container">
+            <table id="tblProducto">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Código</th>
+                        <th>Valor Unitario</th>
+                        <th>Nombre Proveedor</th>
+                        <th>Tipo Producto</th>
+                        <th>Tiempo Garantía</th>
+                        <th>Descuento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Aquí se mostrarán los productos agregados -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Enlazar el archivo JS -->
+    <script src="../Scripts/jquery-3.4.1.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <!--Tables-->
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <!--Archivos comunes-->
+    <script src="Scripts/Comunes/CRUD.js"></script>
+    <script src="Scripts/Producto.js"></script>
+</body>
+</html>

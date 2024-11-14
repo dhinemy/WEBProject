@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temporal\\ITM APIS\\WEB_18_20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_18_20.csproj|c:\\temporal\\itm apis\\web_18_20\\paginas\\scripts\\vistaalquiler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_18_20.csproj|solutionrelative:paginas\\scripts\\vistaalquiler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_18_20.csproj|c:\\temporal\\itm apis\\web_18_20\\paginas\\vistaalquiler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_18_20.csproj|solutionrelative:paginas\\vistaalquiler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VistaAlquiler.html",
+              "DocumentMoniker": "C:\\Temporal\\ITM APIS\\WEB_18_20\\Paginas\\VistaAlquiler.html",
+              "RelativeDocumentMoniker": "Paginas\\VistaAlquiler.html",
+              "ToolTip": "C:\\Temporal\\ITM APIS\\WEB_18_20\\Paginas\\VistaAlquiler.html",
+              "RelativeToolTip": "Paginas\\VistaAlquiler.html",
+              "ViewState": "AgIAADMAAAAAAAAAAAApwFIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-19T09:37:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistaAlquiler.js",
+              "DocumentMoniker": "C:\\Temporal\\ITM APIS\\WEB_18_20\\Paginas\\Scripts\\VistaAlquiler.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\VistaAlquiler.js",
+              "ToolTip": "C:\\Temporal\\ITM APIS\\WEB_18_20\\Paginas\\Scripts\\VistaAlquiler.js",
+              "RelativeToolTip": "Paginas\\Scripts\\VistaAlquiler.js",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-19T09:36:22.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

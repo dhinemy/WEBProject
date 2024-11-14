@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de clientes</title>
+    <link rel="stylesheet" href="menu.css">
+    <link rel="stylesheet" href="formulario-proveedores.css">
+</head>
+<body>
+
+    <div class="sidebar">
+        <a href="#" class="logo">
+            Instituto Tecnológico Metropolitano de Medellín.
+        </a>
+        <a href="#">Inicio</a>
+        <a href="formulario-Productos.html">Catálogo</a>
+        <a href="formulario-cliente.html">Clientes</a>
+        <a href="formulario-proveedores.html">Proveedores</a>
+    </div>
+
+    <div class="container">
+        <h1>Gestión de clientes</h1>
+
+        <div class="form-container">
+            <h2>Agregar cliente</h2>
+            <form id="form-cliente">
+                <div class="form-group">
+                    <label for="txtNombre">Nombre:</label>
+                    <input type="text" id="txtNombre" placeholder="Nombre del cliente" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="cboTipoDocumento">Tipo de Documento:</label>
+                    <select id="cboTipoDocumento" required>
+                        <option value="" disabled selected>Seleccione un tipo de documento</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="txtDocumento">Documento:</label>
+                    <input type="text" id="txtDocumento" placeholder="Número de documento" required>
+                </div>
+
+
+                <div class="form-group">
+                    <label for="cboEstado">Estado:</label>
+                    <select id="cboEstado">
+                        <option value="true" selected>Activo</option>
+                        <option value="false">Inactivo</option>
+                    </select>
+                </div>
+
+                <div class="button-group">
+                    <button type="button" class="Agregar" onclick="Insertar()">Agregar</button>
+                    <button type="button" class="Editar" onclick="Actualizar()">Editar</button>
+                    <button type="button" class="Eliminar" onclick="Eliminar()">Eliminar</button>
+                    <button type="button" class="Consultar" onclick="Consultar()">Consultar</button>
+                </div>
+            </form>
+        </div>
+
+
+        <div class="table-container">
+            <table id="tblClientes">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Tipo de Documento</th>
+                        <th>Documento</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="../Scripts/jquery-3.4.1.min.js"></script>
+    <script src="../Scripts/bootstrap.bundle.min.js"></script>
+    <!--Tables-->
+    <script src="../Scripts/jquery.dataTables.min.js"></script>
+    <script src="../Scripts/dataTables.bootstrap4.min.js"></script>
+    <!--Archivos comunes-->
+    <script src="Scripts/Comunes/CRUD.js"></script>
+    <script src="Scripts/Cliente.js"></script>
+</body>
+</html>

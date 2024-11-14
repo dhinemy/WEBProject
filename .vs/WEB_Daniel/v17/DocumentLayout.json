@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|c:\\users\\danie\\downloads\\entrega 3\\web_daniel\\web_daniel\\paginas\\scripts\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\scripts\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|c:\\users\\danie\\downloads\\entrega 3\\web_daniel\\web_daniel\\paginas\\formulario-productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\formulario-productos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|c:\\users\\danie\\downloads\\entrega 3\\web_daniel\\web_daniel\\paginas\\scripts\\proveedor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\scripts\\proveedor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\paginas\\formulario-cliente.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\formulario-cliente.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|c:\\users\\danie\\downloads\\entrega 3\\web_daniel\\web_daniel\\paginas\\scripts\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\scripts\\cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\paginas\\formulario-proveedores.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\formulario-proveedores.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\paginas\\scripts\\comunes\\crud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7573A221-FBF1-4FC8-937B-85270D143363}|WEB_Daniel.csproj|solutionrelative:paginas\\scripts\\comunes\\crud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proveedor.js",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Proveedor.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Proveedor.js",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Proveedor.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Proveedor.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-17T00:14:53.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.js",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Producto.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Producto.js",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Producto.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Producto.js",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T22:41:52.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.js",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Cliente.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Cliente.js",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Cliente.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Cliente.js",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T20:49:10.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRUD.js",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Comunes\\CRUD.js",
+              "RelativeDocumentMoniker": "Paginas\\Scripts\\Comunes\\CRUD.js",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\Scripts\\Comunes\\CRUD.js",
+              "RelativeToolTip": "Paginas\\Scripts\\Comunes\\CRUD.js",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-16T20:46:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formulario-cliente.html",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\formulario-cliente.html",
+              "RelativeDocumentMoniker": "Paginas\\formulario-cliente.html",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\formulario-cliente.html",
+              "RelativeToolTip": "Paginas\\formulario-cliente.html",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T20:42:53.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formulario-proveedores.html",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\formulario-proveedores.html",
+              "RelativeDocumentMoniker": "Paginas\\formulario-proveedores.html",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\formulario-proveedores.html",
+              "RelativeToolTip": "Paginas\\formulario-proveedores.html",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T19:12:17.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formulario-Productos.html",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\formulario-Productos.html",
+              "RelativeDocumentMoniker": "Paginas\\formulario-Productos.html",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\Entrega 3\\WEB_Daniel\\WEB_Daniel\\Paginas\\formulario-Productos.html",
+              "RelativeToolTip": "Paginas\\formulario-Productos.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-16T22:04:44.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

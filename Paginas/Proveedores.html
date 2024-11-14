@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Menu.css">
+    <title>Menu principal</title>
+
+
+</head>
+
+<body>
+
+    <nav class="nav">
+
+        <h1 class="nav__logo">Institución Universitaria ITM</h1>
+
+        <a href="#menu" class="nav__target">
+            <img src="menu.png" class="nav__icon">
+        </a>
+        <div class="nav__links" id="menu">
+            <a href="./Catalogo.html" class="nav__link"><span class="Texto__Menu">Catalogo</span></a>
+            <a href="./Proveedores.html" class="nav__link"><span class="Texto__Menu">Proveedores</span></a>
+            <a href="./Garantias.html" class="nav__link"><span class="Texto__Menu">Garantias</span></a>
+            <a href="./Contactanos.html" class="nav__link"><span class="Texto__Menu">Contactanos</span> </a>
+
+        </div>
+    </nav>
+
+    <div class="contenedor">
+        <div class="titulo">Proveedores</div>
+
+        <div class="form">
+            <div class="form-group">
+                <span>Documento</span>
+                <input class="controles" type="text" placeholder="Documento">
+
+                <span>Tipo de documento</span>
+                <select name="ListTipoDocumento" id="ListTipoDocumento" placeholder="Tipo de Documento">
+                    <option value="" selected></option>
+                    <option value="CC">CC</option>
+                    <option value="Nit">Nit</option>
+                </select>
+
+                <span>Razon Social</span>
+                <input class="controles" type="text" placeholder="Razon Social">
+
+            </div>
+
+            <div class="form-group">
+                <span>Telefono</span>
+                <input class="controles" type="text" placeholder="Telefono">
+
+                <span>Correo Electronico</span>
+                <input class="controles" type="text" placeholder="Email">
+            </div>
+            <div class="form-group">
+                <span>Observaciones</span>
+                <!-- <textarea style="width: 80%; height: 20px; margin-left: 10px; margin-right: 10px; resize: none; overflow: hidden;" oninput="this.style.height = ''; this.style.height = this.scrollHeight + 'px';"></textarea> -->
+                <input class="controles" placeholder="Observaciones">
+
+            </div>
+            <div class="button">
+                <input type="button" value="Registrar">
+                <input type="button" value="Actualizar">
+                <input type="button" value="Consultar">
+                <input type="button" value="Eliminar">
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+</body>
+<footer class="footer__Contenedor">
+
+
+    <div class="footer__Logo">
+        <img src="logo.png" alt="Logo del ITM" style="width: 100px; height: auto; margin-right: 20px;">
+        <div>
+            <h3>Institución Universitaria ITM</h3>
+        </div>
+    </div>
+
+
+    <div>
+        <h4>Contacto</h4>
+        <p>Teléfono: +57 301 353 02 99</p>
+        <p>Email: Acessorios@itm.edu.co</p>
+        <p>Dirección: Institución Universitaria ITM - campus Fraternidad, Cl. 54a #30-01, Medellín, Villa Hermosa,
+            Medellín, Antioquia</p>
+    </div>
+
+
+    <div>
+        <h4>Datos Legales</h4>
+        <p>© 2024 ITM Accesorios. Todos los derechos reservados.</p>
+        <p><a href="">Términos y Condiciones</a></p>
+        <p><a href="">Política de Privacidad</a></p>
+    </div>
+
+</footer>
+
+</html>
